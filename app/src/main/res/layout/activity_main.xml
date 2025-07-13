@@ -30,7 +30,7 @@
             android:layout_width="160dp"
             android:layout_height="160dp"
             android:contentDescription="@string/login_icon"
-            android:src="@drawable/icon_login" />
+            android:src="@drawable/tuition" />
 
         <TextView
             android:layout_width="match_parent"
